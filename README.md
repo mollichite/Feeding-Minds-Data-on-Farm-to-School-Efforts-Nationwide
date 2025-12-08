@@ -1,7 +1,7 @@
 
 # Feeding Minds: Data on Farm to School Efforts Nationwide
 
-This project provides an assessment of the USDA’s Farm to School Programs with a focus on participation level, how "local" is defined" and geographic distribution accross the US.  Findings include who the top participating states are in the Farm to School programs: NC, NV, VA, WI, CO. 24.3% of participants define "local" as "Produced Within the State".  Finally, states like TX, CA, OH, PA, MI, NY, IL, WI, MN and NJ would potenitally increase their participation in these programs if funding increased.
+This project provides an assessment of the USDA’s Farm to School Programs with a focus on participation level, how "local" is defined and geographic distribution accross the US.  Findings include who the top participating states are in the Farm to School programs: NC, NV, VA, WI, CO. 24.3% of participants define "local" as "Produced Within the State".  Finally, states like TX, CA, OH, PA, MI, NY, IL, WI, MN and NJ would potenitally increase their participation in these programs if funding increased.
 
 
 ## Data Sources
