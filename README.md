@@ -7,8 +7,11 @@ This analysis examines the USDA Farm to School Census, a one-of-a-kind dataset f
 # Conculsions
 
 Visual #1: Farm to School: How Schools Define 'Local' Food Based on Census Responses. 24.3% of participants define "local" as "Produced Within the State".  
-Visual #2: Farm to School: Top 10 Participating States. The ten states with the highest weighted school participation percentages, based on Farm to School Census responses. NC, NV, VA, WI, CO, OR, GA, UT, KS, SC   
+
+Visual #2: Farm to School: Top 10 Participating States. The ten states with the highest weighted school participation percentages, based on Farm to School Census responses. 
+
 Visual #3: Farm to School: Top and Bottom 5 States By Census Participation. Weighted school participation percentages highlight the highest and lowest performing states based on census responses.
+
 Visual #4: Farm to School: States Where Increased Funding Could Boost Participation. Total responses to Q13C1 (‘What would make it easier for your SFA/schools to participate in farm to school activities? – More funding’) were analyzed, and the top 10 states by response rate are shown. Weighted school percentages indicate current participation levels. Minnesota, a previous bottom performer, is highlighted as a state where funding could increase participation.
 
 
